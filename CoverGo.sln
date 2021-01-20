@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverGo.Application", "CoverGo.Application\CoverGo.Application.csproj", "{03F98BC7-2083-447C-AE43-124C5FC9036F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverGo.Tests", "CoverGo.Tests\CoverGo.Tests.csproj", "{67369ABF-32A4-434E-A663-FEB72A44A6D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverGo.Shop", "CoverGo.Shop\CoverGo.Shop.csproj", "{76C6A004-CF74-4FD8-8E2A-BFFE604D8AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverGo.Shop.Tests", "CoverGo.Shop.Tests\CoverGo.Shop.Tests.csproj", "{77A26BC5-8924-4EA9-B632-6C63C8B1DC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F98BC7-2083-447C-AE43-124C5FC9036F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F98BC7-2083-447C-AE43-124C5FC9036F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F98BC7-2083-447C-AE43-124C5FC9036F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F98BC7-2083-447C-AE43-124C5FC9036F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67369ABF-32A4-434E-A663-FEB72A44A6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67369ABF-32A4-434E-A663-FEB72A44A6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67369ABF-32A4-434E-A663-FEB72A44A6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67369ABF-32A4-434E-A663-FEB72A44A6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C6A004-CF74-4FD8-8E2A-BFFE604D8AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C6A004-CF74-4FD8-8E2A-BFFE604D8AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C6A004-CF74-4FD8-8E2A-BFFE604D8AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C6A004-CF74-4FD8-8E2A-BFFE604D8AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A26BC5-8924-4EA9-B632-6C63C8B1DC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A26BC5-8924-4EA9-B632-6C63C8B1DC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A26BC5-8924-4EA9-B632-6C63C8B1DC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A26BC5-8924-4EA9-B632-6C63C8B1DC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
